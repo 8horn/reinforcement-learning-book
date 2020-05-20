@@ -8,7 +8,7 @@ Please forgive the dirty and unorganized code - I mostly use it this repo to lea
 
 Here's a detailed list of completed exercises and implemented methods, ordered by their book appearances.
 
-### Chapter 2: Multi-Armed Bandits ([Notebook](https://github.com/8horn/reinforcement-learning-book/blob/master/1.%20Tabular%20Solution%20Methods.ipynb))
+### Chapter 2: Multi-Armed Bandits ([Notebook](https://github.com/8horn/reinforcement-learning-book/blob/master/Multi-Armed-Bandits.ipynb))
 
 
 - Full implementation of *K-armed bandit( simulation;
