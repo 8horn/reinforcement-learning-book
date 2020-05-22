@@ -19,7 +19,7 @@ Here's a detailed list of completed exercises and implemented methods, ordered b
 - *Upper Confidence Bounds* (UCB) which selects non-optimal actions in a more clever-fashion by weightening the choice according to potential of the non-optimal action;
 - *Gradient Bandit* which learns optimal actions not in terms of rewards, but in terms of preference, comparing the received reward to the average of total rewards received and updating the preferences for all available actions accordingly.
 
-### Chapter 4: Dynamic Programming ([Notebook](https://github.com/8horn/reinforcement-learning-book/blob/master/Dynamic-Programming.ipynb)
+### Chapter 4: Dynamic Programming ([Notebook](https://github.com/8horn/reinforcement-learning-book/blob/master/Dynamic-Programming.ipynb))
 
 - Full implementation of GridWorld simulation environment;
 - *Iterative Policy Evaluation* which calculates the expected return from any potential state;
