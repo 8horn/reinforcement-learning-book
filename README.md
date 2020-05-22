@@ -11,7 +11,7 @@ Here's a detailed list of completed exercises and implemented methods, ordered b
 ### Chapter 2: Multi-Armed Bandits ([Notebook](https://github.com/8horn/reinforcement-learning-book/blob/master/Multi-Armed-Bandits.ipynb))
 
 
-- Full implementation of *K-armed bandit* simulation;
+- Full implementation of *K-armed bandit* simulation environment;
 - *Epsilon-greedy policy* which balances exploration vs exploitation;
 - *Incremental-Implementation* and *Sample-Average Method* which quickly calculates and updates expected value of each possible action;
 - *Exponential Recency-Weighted Average* which puts less weights on rewards received long time ago;
@@ -21,5 +21,5 @@ Here's a detailed list of completed exercises and implemented methods, ordered b
 
 ### Chapter 4: Dynamic Programming ([Notebook](https://github.com/8horn/reinforcement-learning-book/blob/master/Dynamic-Programming.ipynb))
 
-- Full implementation of GridWorld simulation environment;
+- Full implementation of *GridWorld* simulation environment;
 - *Iterative Policy Evaluation* which calculates the expected return from any potential state;
