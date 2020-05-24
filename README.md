@@ -23,3 +23,7 @@ Here's a detailed list of completed exercises and implemented methods, ordered b
 
 - Full implementation of *GridWorld* simulation environment;
 - *Iterative Policy Evaluation* which calculates the expected return from any potential state;
+- *Policy Iteration* which interleaves iterative policy evaluation with iteraive policy improvement and changes the policy based on newly calculated value function, that depends on that policy.
+- *Value Iteration* which produces optimal value function and optimal policy with just a single sweeps along value function.
+- Full implementation of *Gamblers Problem* together with value iteration to solve the problem and charts for different probabilities of rolling heads.
+- Notes on *Asynchronous Dynamic Programmin* and *Generalized Policy Iteration*
