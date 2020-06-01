@@ -27,3 +27,9 @@ Here's a detailed list of completed exercises and implemented methods, ordered b
 - *Value Iteration* which produces optimal value function and optimal policy with just a single sweeps along value function.
 - Full implementation of *Gamblers Problem* together with value iteration to solve the problem and charts for different probabilities of rolling heads.
 - Notes on *Asynchronous Dynamic Programmin* and *Generalized Policy Iteration*
+
+### Chapter 5: Monte Carlo Methods ([Notebook](https://github.com/8horn/reinforcement-learning-book/blob/master/Monte-Carlo-Methods.ipynb))
+
+- Full implementation of *Blackjack* environment;
+- *First-visit MC* to estimate value function given policy $\pi$;
+- *Monte Carlo Exploring Starts* which learns optimal policy by observing returns after each episode and using them as policy evaluation and improvement; 
