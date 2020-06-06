@@ -33,3 +33,4 @@ Here's a detailed list of completed exercises and implemented methods, ordered b
 - Full implementation of *Blackjack* environment;
 - *First-visit MC* to estimate value function given policy $\pi$;
 - *Monte Carlo Exploring Starts* which learns optimal policy by observing returns after each episode and using them as policy evaluation and improvement; 
+- *On-policy MC with soft-epsilon* which greedily takes best action (exploitation), but with epsilon probability sometimes selects an action that is not optimal (exploration);
